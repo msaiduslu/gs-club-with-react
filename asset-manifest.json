@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gs-club-with-react/static/css/main.daeb487f.css",
+    "main.js": "/gs-club-with-react/static/js/main.1f1e37c4.js",
+    "static/js/787.1dcb7774.chunk.js": "/gs-club-with-react/static/js/787.1dcb7774.chunk.js",
+    "static/media/GS_Logo.svg.png": "/gs-club-with-react/static/media/GS_Logo.svg.199b7b66d3fdbbe42903.png",
+    "index.html": "/gs-club-with-react/index.html",
+    "main.daeb487f.css.map": "/gs-club-with-react/static/css/main.daeb487f.css.map",
+    "main.1f1e37c4.js.map": "/gs-club-with-react/static/js/main.1f1e37c4.js.map",
+    "787.1dcb7774.chunk.js.map": "/gs-club-with-react/static/js/787.1dcb7774.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daeb487f.css",
+    "static/js/main.1f1e37c4.js"
+  ]
+}
