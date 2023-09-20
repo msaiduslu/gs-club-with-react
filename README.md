@@ -41,7 +41,7 @@ GS Club(folder)
 └── yarn.lock
 ```
 
-### At the end of the project, students will be able to;
+### At the end of the project, i will be able to;
 
 - learn initialize React App with yarn
 
