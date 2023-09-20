@@ -9,11 +9,11 @@ export const data = [
   },
   {
     id: 2,
-    title: "Leo Dubois",
+    title: "Angeliño",
     date: "Sol Defans",
     desc: "14 Eylül 1994 yılında Fransa’nın Segré bölgesinde dünyaya gelen Dubois, 2000 yılında başladığı futbol yaşamında 2009’da Nantes’a geçiş yaparak önemli bir adım attı. Nantes akademisinde yetişen ve 2014 yılında A takıma yükselen Fransız sağ bek, dört sezon Nantes ile Ligue 1 forması giydi. 106 maçta 4 gol ve 13 asistle Nantes kariyerini noktaladı. ",
     image:
-      "https://hlkiurt3.rocketcdn.com/profiles/547def00b3644a00ac5702981327a990.jpeg",
+      "https://hlkiurt3.rocketcdn.com/profiles/6fb67b1993ec452c949f32df9a52083f.jpeg",
   },
   {
     id: 3,
@@ -29,7 +29,7 @@ export const data = [
     date: "Defans",
     desc: "Kariyerine Zonguldakspor altyapısında başlayan oyuncumuz, Konyaspor altyapısına transfer oldu. Selçukluspor, Adana Demirspor, Samsunspor, Giresunspor, Denizlispor ve Altay gibi kulüplerde kiralık olarak forma giyen Bardakcı, 2020-2021 Süper Lig sezonunda kulübü Konyaspor’a dönerek sezonu burada geçirdi.Abdülkerim Bardakcı, 2022-2023 yaz transfer sezonunda Galatasaray'a katıldı.   ",
     image:
-      "https://hlkiurt3.rocketcdn.com/profiles/7862a9bb2fbb4f4abecd390ef1c22d70.jpeg",
+      "https://hlkiurt3.rocketcdn.com/profiles/9bc566724a734fee8d3acef1b3cd09b5.jpeg",
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const data = [
     date: "Sag Defans",
     desc: "2000 yılında Fransa’nın Montreuil şehrinde doğan Boey, futbolculuk kariyerine Rennes altyapısında başladı. Kamerun asıllı Fransız futbolcu Rennes B Takımı’nda forma giydikten sonra yükselişini sürdürerek A takımda şans buldu.Sacha Boey, Fransa Milli Takımı alt yaş kategorilerinde U17, U18 ve U20 takımlarında da forma giydi.Boey,  2021-2022 sezonundan bu yana Galatasaray forması giymektedir.",
     image:
-      "https://hlkiurt3.rocketcdn.com/profiles/930dc318cb3548a89524114e032b5be9.jpeg",
+      "https://hlkiurt3.rocketcdn.com/profiles/df9f8bf5e56a428da226c226ccaa1044.jpeg",
   },
   {
     id: 6,
@@ -53,7 +53,7 @@ export const data = [
     date: "Orta Saha",
     desc: "11 Şubat 1996’da Uruguay’da Fray Bentos kentinde doğan oyuncu, 18 de Julio ve Montevideo Wanderers gibi ülke kulüplerinde yetişirken 2013-14 sezonunda Pescara altyapısına giderek İtalya kariyerine adım attı.Arsenal’da bir sezon geçirdikten sonra ertesi sezon Atletico Madrid’e, ardından da Fiorentina ile anlaşarak İtalya’ya geri döndü. Fiorentina’da 35 maçta 5 gol ve 2 asistlik performans ortaya koyan başarılı ön libero, Arsenal’a sezon sonu dönüşünün ardından Galatasarayımıza katıldı.  ",
     image:
-      "https://hlkiurt3.rocketcdn.com/profiles/4126b2d60177411aaad31e2c703f322a.jpeg",
+      "https://hlkiurt3.rocketcdn.com/profiles/9737066db374431d8679eecdc5c3492b.jpeg",
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const data = [
     date: "Orta Saha",
     desc: "Sergio Oliveira, 2 Haziran 1992 tarihinde Portekiz'in Santa Maria da Feira'ya bağlı Paços de Brandão beldesinde dünyaya geldi.İlk profesyonel imzasını da 2010 yılında Porto'ya atan başarılı orta saha, deneyim kazanması amacıyla kiralık olarak gönderildi. Portekiz'de Beira-Mar, Penafiel, Paços Ferreira, Belçika'da KV Mechelen, Fransa'da FC Nantes, Yunanistan'da PAOK ve İtalya'da Roma formalarını giyen Oliveira, Serie A ekibi ile UEFA Konferans Ligi'nde şampiyonluğa ulaştı.Sergio Oliveira, 2022-2023 yaz transfer sezonunda Galatasaray'a katıldı.",
     image:
-      "https://hlkiurt3.rocketcdn.com/profiles/90bbcc657a764eb88cc22eaf6fdcc263.jpeg",
+      "https://hlkiurt3.rocketcdn.com/profiles/7f99e97a7789469f97c924efdbbc6972.jpeg",
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const data = [
     date: "Sag Kanat",
     desc: "21 yaşındaki futbolcu Türkiye Milli Takımı'nın U18 ve U19 kategorilerinde de forma giydi. Galatasaray'da ilk sezonunda gösterdiği başarılı performansın ardından Türkiye A Milli Takımı'nın Euro 2020 kafilesine davet edildi; ancak bu turnuvada forma giymedi. 27 Mayıs 2020 tarihinde Azerbaycan ile oynanan dostluk maçında ilk defa A Milli formayı giyme onurunu yaşadı.Muhammed Kerem Aktürkoğlu 2020-2021 sezonundan bu yana Galatasaray forması giymektedir.  ",
     image:
-      "https://hlkiurt3.rocketcdn.com/profiles/3cbe5347319b4f978510425aefed2851.jpeg",
+      "https://hlkiurt3.rocketcdn.com/profiles/0a6f87169be74672a93811645295ccb6.jpeg.jpeg",
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const data = [
     date: "Forvet",
     desc: "6 Mayıs 1987’de Belçika’nın Leuven şehrinde doğan Mertens, futbol hayatına doğduğu kentin yerel kulüplerinden Stade Leuven’de başladı. Gent altyapısında futbolculuk yeteneklerini geliştiren oyuncu, Hollanda yolunu tutarak ikinci lig ekiplerinden Eendrach Aalst ve AGOVV’daki performanslarıyla rüştünü kanıtladı. Kiralık olarak gittiği AGOVV’da 2008 yılında ligin en iyi oyuncusu seçildi.İlk kez 2010 yılında Belçika A Milli Takımı’nda şans bulan yıldız oyuncu, 100 maçta 20 kez fileleri sarstı. 2018 Dünya Kupası’nda elemelerle birlikte kaydettiği 5 golle adından çokça söz ettirdi.",
     image:
-      "https://hlkiurt3.rocketcdn.com/profiles/1deb4295e6ae4614802333c402fe4c1b.jpeg",
+      "https://hlkiurt3.rocketcdn.com/profiles/c758a74207e24295b523a29185eb2dbf.jpeg",
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const data = [
     date: "Santrafor",
     desc: "2019-2020 sezonunda İtalya kariyerine nokta koyan dünyaca ünlü santrfor, Paris Saint Germain’e kiralık olarak transfer oldu ve ertesi sezonda 50 milyon Euro bonservis karşılığında PSG’ye kalıcı olarak katıldı. Icardi Paris temsilcisinde 92 maça çıkarak 38 gol ve 10 asistlik performans sergiledi. PSG’deki döneminde iki lig şampiyonluğu, iki Fransa Kupası ve iki Fransa Süper Kupa şampiyonluğu başarılarını kazandı. Arjantin A Milli Takımı formasını 8 kez sırtına geçiren futbolcu, bir gol kaydetti. ",
     image:
-      "https://hlkiurt3.rocketcdn.com/profiles/b171e1fa82534894a8b46f8543e6b692.jpeg",
+      "https://hlkiurt3.rocketcdn.com/profiles/967d5155b4db4b8f8b80c714ee951561.jpeg",
   },
   {
     id: 12,
