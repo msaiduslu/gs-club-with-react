@@ -1,4 +1,4 @@
-![Project Snapshot]()
+![Project Snapshot](screengif.gif)
 
 [👉 click here to view the page](https://msaiduslu.github.io/gs-club-with-react/)
 
